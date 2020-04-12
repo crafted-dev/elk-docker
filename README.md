@@ -1,4 +1,4 @@
-# Elasticsearch, Logstash, Kibana (ELK) Docker image
+# Elasticsearch, Logstash, Kibana (ELK) Docker image for Synology
 
 [![](https://images.microbadger.com/badges/image/sebp/elk.svg)](https://microbadger.com/images/sebp/elk "Get your own image badge on microbadger.com") [![Documentation Status](https://readthedocs.org/projects/elk-docker/badge/?version=latest)](http://elk-docker.readthedocs.io/?badge=latest)
 
