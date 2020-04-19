@@ -7,9 +7,11 @@ This Docker image provides a convenient centralised log server and log managemen
 ### Pre-installation 
 
 Log into your DSM by ssh and increase the maximum virtual memory areas.
+
     sudo sysctl -w vm.max_map_count=262144 
 
 Also the following to /etc.default/sysctl.conf to make the change persistent over reboots
+
     vm.max_map_count = 262144
 
 
